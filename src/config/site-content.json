@@ -1,26 +1,23 @@
 {
 	"meta": {
-		"title": "YYsuni",
+		"title": "yhoops",
 		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"username": "yhoops"
 	},
 	"theme": {
-		"colorBrand": "#BCC8BC",
-		"colorPrimary": "#4E3F42",
-		"colorSecondary": "#7b888e",
-		"colorBrandSecondary": "#FCC841",
-		"colorBg": "#eeeeee",
+		"colorBrand": "#2fcbe7",
+		"colorPrimary": "#5B423F",
+		"colorSecondary": "#8b7667",
+		"colorBrandSecondary": "#eec25e",
+		"colorBg": "#d4e8f3",
 		"colorBorder": "#ffffff",
-		"colorCard": "#ffffff66",
+		"colorCard": "#ffffff99",
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#A6E63E",
-		"#ABA631",
-		"#986545",
-		"#90ADBF",
-		"#938D3D",
-		"#B5A2F3"
+		"#f7da3987",
+		"#8fdbe9",
+		"#fffef8"
 	],
 	"artImages": [
 		{
